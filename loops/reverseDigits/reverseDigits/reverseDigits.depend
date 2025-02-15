@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725973800 source:d:\learningclanguage\reversedigits\reversedigits\main.c
+	<stdio.h>
+	<conio.h>
+
