@@ -1,0 +1,4 @@
+This file is "usingfgets.txt".
+These sentences will be printed using fgets function in the file "fgets.c".
+This is flie handling in C.
+Thank You.
