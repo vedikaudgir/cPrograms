@@ -1,3 +1,6 @@
+//Implementation of calculator using argc and argv functions.
+//Author - Vedika Udgir.
+
 #include <stdio.h>
 #include <stdlib.h>
 
