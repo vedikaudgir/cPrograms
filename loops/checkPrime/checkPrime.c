@@ -1,3 +1,4 @@
+//program to check whether a number is prime or not.
 //AUTHOR - VEDIKA UDGIR
 
 #include <stdio.h>
